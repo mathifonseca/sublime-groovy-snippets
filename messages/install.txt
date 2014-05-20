@@ -1,0 +1,7 @@
+Thank you for installing Groovy Snippets!
+
+If you have any questions, comments, or run into issues, please let us know!
+
+If you want to help us extend or modify anything, feel free to create a pull request or contact us.
+
+For more information please visit https://github.com/mathifonseca/sublime-groovy-snippets
