@@ -1,0 +1,8 @@
+<snippet>
+	<content>
+		<![CDATA[g.message(code:'${1:foo}'${2:, args:'[${3:bar}]'})]]>
+	</content>
+	<tabTrigger>tagmsg</tabTrigger>
+	<scope>text.html.gsp,source.groovy</scope>
+	<description>Groovy code for resolving a message from the given code and optional args</description>
+</snippet>
