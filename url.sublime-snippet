@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+"/${1:products}" {
+    controller  = '${2:product}'
+    action      = '${3:list}'
+}
+]]></content>
+	<tabTrigger>url</tabTrigger>
+	<scope>source.groovy</scope>
+	<description>Simple URL mapping</description>
+</snippet>
