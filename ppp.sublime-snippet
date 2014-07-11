@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-println "${1:something} = \${${1:something}}"
+println "********** ${1:something} = \${${1:something}}"
 ]]></content>
 	<tabTrigger>ppp</tabTrigger>
 	<scope>source.groovy</scope>
-	<description>foo = bar</description>
+	<description>********** foo = bar</description>
 </snippet>

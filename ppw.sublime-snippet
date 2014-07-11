@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-println "************************************** ${1:some} = \${${2:thing}} **************************************"
-]]></content>
-	<tabTrigger>ppw</tabTrigger>
-	<scope>source.groovy</scope>
-	<description>*** foo = bar ***</description>
-</snippet>

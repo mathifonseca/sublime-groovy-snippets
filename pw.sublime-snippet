@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-println "************************************** ${1:I'm here!} **************************************"
-]]></content>
-	<tabTrigger>pw</tabTrigger>
-	<scope>source.groovy</scope>
-	<description>*** I'm here ***</description>
-</snippet>
