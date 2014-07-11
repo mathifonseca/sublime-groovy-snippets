@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+name ${1:personList}: "/${2:showPeople}" {
+    controller  = '${3:person}'
+    action      = '${4:list}'
+}
+]]></content>
+	<tabTrigger>urlm</tabTrigger>
+	<scope>source.groovy</scope>
+	<description>Named URL mapping</description>
+</snippet>
