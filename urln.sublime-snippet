@@ -5,7 +5,7 @@ name ${1:personList}: "/${2:showPeople}" {
     action      = '${4:list}'
 }
 ]]></content>
-	<tabTrigger>urlm</tabTrigger>
+	<tabTrigger>urln</tabTrigger>
 	<scope>source.groovy</scope>
 	<description>Named URL mapping</description>
 </snippet>
