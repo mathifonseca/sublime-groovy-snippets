@@ -2,7 +2,7 @@
 	<content>
 		<![CDATA[g.createLink(controller:'${1:foo}'${2:, action:'${3:bar}'})]]>
 	</content>
-	<tabTrigger>taglink</tabTrigger>
+	<tabTrigger>tagcreatelink</tabTrigger>
 	<scope>text.html.gsp,source.groovy</scope>
 	<description>Groovy code for generating a link that can be used in an href</description>
 </snippet>
